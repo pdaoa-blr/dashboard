@@ -1,0 +1,237 @@
+{
+  "apartmentName": "Pavani Divine",
+  "officialLink": "https://share.google/10TVlCOCUIMvujejC",
+  "months": [
+    {
+      "id": "2026-02",
+      "label": "February 2026",
+      "financials": {
+        "corpus": "₹ 64,43,250",
+        "maintenanceCollected": "₹ 8.4 Lakhs",
+        "infraFund": "₹ 1.4 Lakhs",
+        "stalls": "₹ 8,500",
+        "totalOperationalExpenses": "₹ 7,55,467",
+        "remainingOM": "₹ 83,764",
+        "cauveryEMI": "₹ 8,40,412",
+        "expenseBreakdown": [
+          { "name": "Facility Services", "value": 450000 },
+          { "name": "Cauvery water bill", "value": 120000 },
+          { "name": "Electricity bill", "value": 85000 },
+          { "name": "MyGate Renewal", "value": 25000 },
+          { "name": "AMC (Gym, Lift, Gen)", "value": 45000 },
+          { "name": "Diesel & Chemicals", "value": 15000 },
+          { "name": "Others (Garbage, Pest, etc)", "value": 15467 }
+        ],
+        "miscExpenses": [
+          {
+            "id": 1,
+            "item": "Weighing scale",
+            "description": "Replacement of damaged item in Gym"
+          },
+          {
+            "id": 2,
+            "item": "Relay",
+            "description": "Kitchen overhead tank motor starter relay"
+          },
+          {
+            "id": 3,
+            "item": "Core cutting",
+            "description": "Fore new Bore wiring"
+          },
+          { "id": 4, "item": "Hikvision DVR", "description": "CCTV Equipment" },
+          {
+            "id": 5,
+            "item": "Borewell pump & lighting",
+            "description": "Near Club house New & old"
+          },
+          {
+            "id": 6,
+            "item": "Borewell pump installation",
+            "description": "B1 Borewell pipe placing inside borewell"
+          },
+          {
+            "id": 7,
+            "item": "Tractor charges",
+            "description": "Two tractor loads of debris removal"
+          },
+          {
+            "id": 8,
+            "item": "Borewell camera scanning",
+            "description": "Borewell testing"
+          },
+          {
+            "id": 9,
+            "item": "Decoration lights",
+            "description": "Near main entrance, wiring & adapters"
+          },
+          { "id": 10, "item": "STP fan", "description": "STP fan repair" },
+          {
+            "id": 11,
+            "item": "Swimming pool railing",
+            "description": "Swimming pool railing & trolley wheel fixing"
+          },
+          {
+            "id": 12,
+            "item": "Trolley wheel",
+            "description": "New trolley purchase"
+          },
+          {
+            "id": 13,
+            "item": "New Trolley",
+            "description": "Trolley for items movement"
+          },
+          {
+            "id": 14,
+            "item": "Motor rental charges",
+            "description": "Sump cleaning"
+          }
+        ],
+        "totalMisc": "₹ 87,249"
+      },
+      "poolStatus": {
+        "quality": "Excellent",
+        "pH": 7.4,
+        "chlorine": "1.5 ppm",
+        "lastTested": "2026-02-28 08:00 AM"
+      },
+      "projects": [
+        {
+          "name": "Solar Project",
+          "cost": "₹ 85.8 Lakhs",
+          "status": "A Block: Completed, B Block: In Progress",
+          "next": "BESCOM Inspection scheduled for 6th March 2026"
+        },
+        {
+          "name": "Kaveri Water Project",
+          "cost": "₹ 1,11,78,999",
+          "status": "Completed (Water Supply Active)",
+          "next": "5 Months EMI remaining"
+        },
+        {
+          "name": "Park+ Updates",
+          "cost": "₹ 4.65 Lakhs",
+          "status": "Phase 1 In Progress",
+          "next": "Implementation for entry & parking management"
+        }
+      ],
+      "whatsComingNext": [
+        "Cable change for new bore - ₹ 65,000",
+        "Security Cabin - ₹ 56,000",
+        "Newspapers at Clubhouse - 3 Months Trial",
+        "10% hike to Maintenance Vendor (Approx)"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Gymnasium",
+      "timings": "06:00 AM - 10:00 PM",
+      "status": "Open",
+      "rules": "Bring your own towel, wear indoor shoes."
+    },
+    {
+      "name": "Swimming Pool",
+      "timings": "07:00 AM - 09:00 PM",
+      "status": "Open",
+      "rules": "Shower before entry, proper swimwear mandatory."
+    },
+    {
+      "name": "Clubhouse",
+      "timings": "09:00 AM - 11:00 PM",
+      "status": "Open",
+      "rules": "Booking required for private events."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Solar Project",
+      "cost": "₹ 85.8 Lakhs",
+      "status": "A Block: Completed, B Block: In Progress",
+      "next": "BESCOM Inspection scheduled for 6th March 2026"
+    },
+    {
+      "name": "Kaveri Water Project",
+      "cost": "₹ 1,11,78,999",
+      "status": "Completed (Water Supply Active)",
+      "next": "5 Months EMI remaining"
+    },
+    {
+      "name": "Park+ Updates",
+      "cost": "₹ 4.65 Lakhs",
+      "status": "Phase 1 In Progress",
+      "next": "Implementation for entry & parking management"
+    }
+  ],
+  "weeklyActivities": [
+    { "day": "Tuesday", "activity": "Dance", "time": "6:00 PM - 7:00 PM" },
+    { "day": "Wednesday", "activity": "Karate", "time": "4:00 PM - 5:00 PM" },
+    {
+      "day": "Wednesday",
+      "activity": "Art Classes",
+      "time": "5:00 PM - 7:00 PM"
+    },
+    { "day": "Thursday", "activity": "Dance", "time": "6:00 PM - 7:00 PM" },
+    { "day": "Friday", "activity": "Karate", "time": "4:00 PM - 5:00 PM" },
+    {
+      "day": "Saturday",
+      "activity": "Meditation",
+      "time": "11:00 AM - 12:00 PM"
+    }
+  ],
+  "documents": [
+    {
+      "title": "Bylaws Registered in 2025",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTE2ODA0MiI%3A1vw0zk%3Ah4d-WMU7vDFv0YW6uvJhXjBr7jQ%26version%3D1"
+    },
+    {
+      "title": "Swimming Pool Guidelines",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTcxNTcwIg%3A1vxRKA%3A_pstY4-JNzo-Bm_rnO72axSYwU8%26version%3D1"
+    },
+    {
+      "title": "Party Hall Guidelines",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTcxNTY5Ig%3A1vxRLJ%3ASxv3NAFBehuj6tJ5HeyDXmLQmmg%26version%3D1"
+    },
+    {
+      "title": "Move-in / Move-out Rules",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTE2ODExMyI%3A1vxRGw%3Abwg5o-o5j1-AaEK2Q4rhxfH0ASk%26version%3D1"
+    },
+    {
+      "title": "Terrace Guidelines",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTgzNzExIg%3A1vxRIV%3AV6FoV55dFZAVyX2j8qFoAEgSpnA%26version%3D1"
+    },
+    {
+      "title": "Garbage Management",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTE2ODQ4MSI%3A1vw0zN%3ALUHVEjvdu64lEf-1U1cNHFNeb7k%26version%3D1"
+    },
+    {
+      "title": "Parking",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTE2ODA1MSI%3A1vxnZe%3ANSvkL62kNbQb1uFevoIy_4ttaBk%26version%3D1"
+    }
+  ],
+  "communicationChannels": [
+    {
+      "title": "Idea Submission",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeKBDRpebHqncKtZtyCAt7hJzvHyjLMMM2xspRu6ndIbE212A/viewform"
+    },
+    {
+      "title": "Clarification Form",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeKBDRpebHqncKtZtyCAt7hJzvHyjLMMM2xspRu6ndIbE212A/viewform"
+    },
+    {
+      "title": "Classes Conducting Request Form",
+      "link": "https://mygate.com/dl?feature=community&url=https%3A//pavanidivine.ul.mygateliving.in/mygate/login/%3Fredirect_to%3Dportal_documents_detail_view%26cookie%3DImRvY3VtZW50LTE2ODQ4MSI%3A1vw0zN%3ALUHVEjvdu64lEf-1U1cNHFNeb7k%26version%3D1"
+    }
+  ],
+  "newsletters": [
+    {
+      "month": "February 2026",
+      "link": "./assets/docs/PDAOA_February_2026_Newsletter.pdf"
+    }
+  ],
+  "whatsComingNext": [
+    "Cable change for new bore - ₹ 65,000",
+    "Security Cabin - ₹ 56,000",
+    "Newspapers at Clubhouse - 3 Months Trial",
+    "10% hike to Maintenance Vendor (Approx)"
+  ]
+}
