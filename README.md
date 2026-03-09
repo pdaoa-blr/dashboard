@@ -1,6 +1,8 @@
-# Pavani Divine Dashboard
+# Pavani Divine Dashboard 
 
 A simple HTML, CSS, and JavaScript dashboard application for apartment community management.
+
+[🌐 Visit Dashboard](https://pdaoa-blr.github.io/dashboard/)
 
 ## Features
 
