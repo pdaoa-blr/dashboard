@@ -24,7 +24,7 @@ A simple HTML, CSS, and JavaScript dashboard application for apartment community
 1. Open `index.html` in a web browser
 2. Or serve with any static file server:
    ```bash
-   npx serve .
+   npx serve.
    ```
 
 ## Customization
